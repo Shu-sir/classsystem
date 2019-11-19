@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
+ * 在远程仓库修改的数据
  * @author ：MR.Shu
  * @date ：Created in 2019/11/17 11:54
  * @description：
